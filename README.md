@@ -82,8 +82,8 @@
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarazizdev&show_icons=true&hide_rank=true&card_width=390&custom_title=Ammar%27s%20GitHub%20Stats&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Ammar's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarazizdev&layout=compact&card_width=390&langs_count=8&exclude_repo=Face-Recognition-Login-System&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Most used languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ammarazizdev&show_icons=true&hide_rank=true&card_width=390&custom_title=Ammar%27s%20GitHub%20Stats&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Ammar's GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarazizdev&layout=compact&card_width=390&langs_count=8&exclude_repo=Face-Recognition-Login-System&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Most used languages"/>
 </p>
 
 <p align="center">
@@ -95,11 +95,11 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ammarazizdev/Face-Recognition-Login-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ammarazizdev&repo=Face-Recognition-Login-System&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Face-Recognition-Login-System"/></a>
-  <a href="https://github.com/ammarazizdev/feedback"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ammarazizdev&repo=feedback&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="feedback"/></a>
+  <a href="https://github.com/ammarazizdev/Face-Recognition-Login-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ammarazizdev&repo=Face-Recognition-Login-System&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Face-Recognition-Login-System"/></a>
+  <a href="https://github.com/ammarazizdev/feedback"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ammarazizdev&repo=feedback&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="feedback"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ammarazizdev/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ammarazizdev&repo=Portfolio&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Portfolio"/></a>
+  <a href="https://github.com/ammarazizdev/Portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ammarazizdev&repo=Portfolio&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Portfolio"/></a>
 </p>
 
 - 🧠 **[Face Recognition Login System](https://github.com/ammarazizdev/Face-Recognition-Login-System)** — passwordless sign-in: InsightFace embeddings stored in MongoDB and matched by cosine similarity.<br/>
